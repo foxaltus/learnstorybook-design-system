@@ -1,3 +1,7 @@
+import React from "react";
+
+import { GlobalStyle } from "../src/shared/global";
+
 /** @type { import('@storybook/react').Preview } */
 const preview = {
   parameters: {
@@ -9,6 +13,14 @@ const preview = {
       },
     },
   },
+  decorators: [
+    (Story) => (
+      <>
+        <GlobalStyle />
+        <Story />
+      </>
+    ),
+  ],
 };
 
 export default preview;
