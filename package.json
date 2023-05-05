@@ -1,7 +1,7 @@
 {
   "name": "@foxaltus/learnstorybook-design-system-template",
   "description": "Storybook design systems tutorial",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "dist/index.js",
   "repository": "https://github.com/foxaltus/learnstorybook-design-system.git",
   "author": "Guillaume Renard <guillaume.renard@altusgroup.com>",
