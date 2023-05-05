@@ -16,7 +16,7 @@ const config = {
     interactionsDebugger: true,
   },
   docs: {
-    autodocs: "tag",
+    autodocs: true,
   },
   staticDirs: ["../public"],
 };
