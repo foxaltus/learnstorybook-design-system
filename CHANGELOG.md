@@ -1,3 +1,15 @@
+# v0.2.0 (Thu May 11 2023)
+
+#### 🚀 Enhancement
+
+- Create avatar list component [#2](https://github.com/foxaltus/learnstorybook-design-system/pull/2) ([@foxaltus](https://github.com/foxaltus))
+
+#### Authors: 1
+
+- Guillaume Renard ([@foxaltus](https://github.com/foxaltus))
+
+---
+
 # v0.1.2 (Fri May 05 2023)
 
 #### ⚠️ Pushed to `main`
