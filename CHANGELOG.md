@@ -1,3 +1,16 @@
+# v0.2.1 (Mon Jun 12 2023)
+
+#### 🐛 Bug Fix
+
+- ci: fix github action [#3](https://github.com/foxaltus/learnstorybook-design-system/pull/3) ([@foxaltus](https://github.com/foxaltus))
+- make Button pop [#1](https://github.com/foxaltus/learnstorybook-design-system/pull/1) ([@foxaltus](https://github.com/foxaltus))
+
+#### Authors: 1
+
+- Guillaume Renard ([@foxaltus](https://github.com/foxaltus))
+
+---
+
 # v0.2.0 (Thu May 11 2023)
 
 #### 🚀 Enhancement
